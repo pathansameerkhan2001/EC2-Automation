@@ -1,2 +1,2 @@
-# EC2-Automation
-Creating-EC2-with-CI/CD-AWS
+# EC2-VPCAutomation
+Creating-EC2&VPC-with-CI/CD-AWS
